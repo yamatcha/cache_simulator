@@ -1,0 +1,6 @@
+github.com/koron/go-dproxy v1.2.1 h1:ascYt5K5lww8p2b1qQoZv3n6a9E7bMzoDd8srW4xAME=
+github.com/koron/go-dproxy v1.2.1/go.mod h1:sr1u347AB7iUHOVeVN58CkcQmCqr0SQj86qSbsYblJU=
+github.com/kyontan/cache_simulator v0.0.0-20200603173821-8662a117685e h1:MxAzOH603SSpaFDsE+4rJwPBHuIDjcUgCkIstq7TbRU=
+github.com/kyontan/cache_simulator v0.0.0-20200603173821-8662a117685e/go.mod h1:zbv9qsqgP4N43oeudXA7oNMYyHwazya6dzTtsRC/EFk=
+github.com/yosuke-furukawa/json5 v0.1.1 h1:0F9mNwTvOuDNH243hoPqvf+dxa5QsKnZzU20uNsh3ZI=
+github.com/yosuke-furukawa/json5 v0.1.1/go.mod h1:sw49aWDqNdRJ6DYUtIQiaA3xyj2IL9tjeNYmX2ixwcU=
